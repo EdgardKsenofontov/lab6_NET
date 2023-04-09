@@ -1,0 +1,12 @@
+C:\study\6 семестр\NET\lab6_NET\lab6_NET\bin\Debug\lab6_NET.exe.config
+C:\study\6 семестр\NET\lab6_NET\lab6_NET\bin\Debug\lab6_NET.exe
+C:\study\6 семестр\NET\lab6_NET\lab6_NET\bin\Debug\lab6_NET.pdb
+C:\study\6 семестр\NET\lab6_NET\lab6_NET\obj\Debug\lab6_NET.csproj.AssemblyReference.cache
+C:\study\6 семестр\NET\lab6_NET\lab6_NET\obj\Debug\lab6_NET.csproj.SuggestedBindingRedirects.cache
+C:\study\6 семестр\NET\lab6_NET\lab6_NET\obj\Debug\lab6_NET.Properties.Resources.resources
+C:\study\6 семестр\NET\lab6_NET\lab6_NET\obj\Debug\lab6_NET.csproj.GenerateResource.cache
+C:\study\6 семестр\NET\lab6_NET\lab6_NET\obj\Debug\lab6_NET.csproj.CoreCompileInputs.cache
+C:\study\6 семестр\NET\lab6_NET\lab6_NET\obj\Debug\lab6_NET.exe
+C:\study\6 семестр\NET\lab6_NET\lab6_NET\obj\Debug\lab6_NET.pdb
+C:\study\6 семестр\NET\lab6_NET\lab6_NET\obj\Debug\lab6_NET.Form1.resources
+C:\study\6 семестр\NET\lab6_NET\lab6_NET\obj\Debug\lab6_NET.Form2.resources
